@@ -17,7 +17,7 @@ int checkPrime(int n) {
 
 }
 
-
+// Print all prime numbers from 2 to N
 bool isPrime(int z) {
         if(z<2) 
             return false;
